@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vermaaarti
 - 👀 I’m interested in web designing & development
-- 🌱 I’m currently an associate software analyst in working on .Net MVC.
+- 🌱 I’m currently an associate software analyst and working on .Net MVC.
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me 
 - Here you can connect with me https://www.linkedin.com/in/aarti-verma-83939a1b6/
